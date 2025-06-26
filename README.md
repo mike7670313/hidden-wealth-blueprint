@@ -1,1 +1,1 @@
-# hidden-wealth-blueprint
+hidden_wealth_blueprint.htmlindex.html
